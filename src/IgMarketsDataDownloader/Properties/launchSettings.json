@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "IgMarketsDataDownloader": {
-      "commandName": "Project",
-      "commandLineArgs": "--interactive --urls http://*:5080"
-    }
-  }
-}
