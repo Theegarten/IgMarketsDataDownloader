@@ -21,14 +21,4 @@
 
         public string ApiKey { get; set; }
     }
-
-    public class RestEndpoint
-    {
-        public Login Login { get; set; }
-    }
-
-    public class Login
-    {
-        public string Session { get; set; }
-    }
 }
