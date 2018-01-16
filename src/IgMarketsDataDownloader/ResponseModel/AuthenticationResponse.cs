@@ -38,7 +38,7 @@ namespace IgMarketsDataDownloader.ResponseModel
         ///<Summary>
         ///Client account summaries
         ///</Summary>
-        public List<AccountDetails> Accounts { get; set; }
+        public List<AccountDetail> Accounts { get; set; }
 
         ///<Summary>
         ///Client identifier
@@ -83,5 +83,9 @@ namespace IgMarketsDataDownloader.ResponseModel
         ///<Summary>
         ///</Summary>
         public string KycFormUrl { get; set; }
+
+        public string AccountId { get; set; }
+
+        public OauthToken OauthToken { get; set; }
     }
 }

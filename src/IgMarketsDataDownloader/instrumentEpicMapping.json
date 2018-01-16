@@ -1,0 +1,11 @@
+﻿{
+  "Instruments": [
+    {
+      "Name": "S&P/ASX 200",
+      "Identifier": "IX.D.ASX.IFT.IP",
+      "IgName": "Australia 200 Cash (A$1)",
+      "IgSymbol": ".AXJO",
+      "BloombergSymbol": "AS51:IND"
+    }
+  ]
+}

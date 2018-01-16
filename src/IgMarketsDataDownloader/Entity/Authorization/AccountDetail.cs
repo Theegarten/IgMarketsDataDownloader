@@ -1,6 +1,6 @@
 ﻿namespace IgMarketsDataDownloader.Entity.Authorization
 {
-    public class AccountDetails
+    public class AccountDetail
     {
         ///<Summary>
         ///Account identifier
